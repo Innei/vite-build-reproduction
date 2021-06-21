@@ -1,9 +1,9 @@
 # vite-build-reproduction
 
-Just except in prod after build.
+It's only in production that there are problems.
 
 ```sh
 yarn
 yarn build
-yanr preview
+yarn preview
 ```
